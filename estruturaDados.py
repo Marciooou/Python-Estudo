@@ -53,3 +53,43 @@ print(pessoa.items())
 
 pessoa.update({"profissão":"engenheiro"})
 print(pessoa)
+
+print ("========")
+
+#Conjuntos (Set)
+
+frutasSet = {"maçã", "banana", "laranja"}
+numeroSet = set([1,2,3,4,5])
+
+conjunto1 = {1,2,3}
+conjunto2 = {3,4,5}
+
+uniao = conjunto1 | conjunto2
+print (uniao)
+
+intersecao = conjunto1 & conjunto2
+print (intersecao)
+
+diferenca = conjunto1 - conjunto2
+print (diferenca)
+
+diferencaSimetrica = conjunto1 ^ conjunto2
+print (diferencaSimetrica)
+
+#metodo de conjunto
+#add(elemento): adiciona elemento ao conjunto
+#remove(elemento): remove elemento do conjunto. Se nn exister gera erro
+#discard(elemento): remove elemento do conjunto se estiver presente
+#clear(): remove todos os elementos do conjunto
+
+frutasSet.add("pera")
+print(frutas)
+
+frutasSet.remove("banana")
+print (frutasSet)
+
+frutasSet.discard("uva")
+print(frutasSet)
+
+frutasSet.clear()
+print(frutasSet)
