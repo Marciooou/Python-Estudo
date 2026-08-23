@@ -22,3 +22,9 @@ Aprender Python desde os fundamentos até conceitos mais avançados, criando uma
 - [X] Estrutura de dados
 - [X] Tratamento de Exceção
 
+### 🟡 Funções
+- [X] Criação de funções
+- [X] Parâmetros
+- [X] Retorno (`return`)
+- [X] Funções lambda
+- [X] Escopo de variáveis
