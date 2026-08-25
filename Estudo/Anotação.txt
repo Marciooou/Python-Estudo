@@ -1,0 +1,11 @@
+Futuramente utilizar: pip, venv, pyenv, pyenv-win, uv e pyproject.toml
+
+Olhar deois: 
+
+YouTube - @otaviomiranda - tutoriais, projetos, conceitos que não cabem num curso
+
+Newsletter - luizomf.substack.com - conteúdo direto no seu e-mail, sem enrolação, sem spam, gratuito
+
+Discussions - GitHub Discussions - fórum para assuntos de programação (ainda iniciando)
+
+Outros cursos - otaviomiranda.com.br - Meu site
